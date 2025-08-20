@@ -1,9 +1,9 @@
 ---
-title: "Chapter 2"
+title: "Chapter 2 The Hitchhiker's Guide to Taking Over The Galaxy"
 layout: default 
 ---
 
-## **Chapter 2**
+## **Chapter 2: The Hitchhiker's Guide to Taking Over The Galaxy**
 
 AT MIDDAY ON a cold and drizzly Sunday in November, the line forming outside Oxford Academy is rife with excitement and anticipation.
 
