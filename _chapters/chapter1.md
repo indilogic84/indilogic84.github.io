@@ -3,7 +3,7 @@ title: Chapter 1 Leaders of The New World Order
 layout: default
 ---
 
-### **Chapter 1: Leaders of The New World Order **
+### **Chapter 1: Leaders of The New World Order**
 
 FIVE. MORE. YEARS.
 
