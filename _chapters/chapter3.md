@@ -1,9 +1,9 @@
 ---
-title: "Chapter 3"
+title: "Chapter 3 Two in A Million"
 layout: default 
 ---
 
-### **Chapter 3**
+### **Chapter 3: Two in A Million**
 
 LEGACIES ARE AT the centre of everything we do.
 
