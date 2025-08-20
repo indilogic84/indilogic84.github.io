@@ -227,9 +227,7 @@ Truth be told, there was no grand plan when it came to creating Scaled And Icy. 
 
 "I didn't know if there was anybody left in the world who even wanted to listen to entire records," he admits.
 
-"When I'm done with a song, I like to move it away. I like to put it all the way over to the side, right to the edge of my peripherals, so that I can move on to whatever is 
-
-next. For me, Scaled And Icy was the most like that of any record I've ever made. There was no plan beyond [chasing] the next idea."
+"When I'm done with a song, I like to move it away. I like to put it all the way over to the side, right to the edge of my peripherals, so that I can move on to whatever is next. For me, Scaled And Icy was the most like that of any record I've ever made. There was no plan beyond [chasing] the next idea."
 
 There was certainly no shortage of those. Embracing the topsy-turvy time in which it was forged, each song was entirely its own, driven only by instinct and curiosity. A metaphorical buffet where ice cream and spaghetti could finally live on the same plate, nothing was off-limits. High-tempo funk; new wave; synth-pop; breakbeat-infused electronica; shimmering piano-pop; guitar-driven rock - all were present and none felt the least bit out of place.
 
