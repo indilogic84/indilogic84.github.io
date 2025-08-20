@@ -1,9 +1,9 @@
-Chapter---
-title: "Chapter 6"
+---
+title: "Chapter 6 One Year in Trench"
 layout: default 
 ---
 
-### **Chapter 6**
+### **Chapter 6： One Year in Trench**
 
 IT's AMAZING HOW often the thing you're looking for is right in front of you.
 
