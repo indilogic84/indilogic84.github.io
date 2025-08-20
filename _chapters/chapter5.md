@@ -1,9 +1,9 @@
 ---
-title: "Chapter 5"
+title: "Chapter 5 Welcome to Trench"
 layout: default 
 ---
 
-### **Chapter 5**
+### **Chapter 5: Welcome to Trench**
 
 CARS ARE THE window to the soul.
 
