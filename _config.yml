@@ -19,3 +19,4 @@ plugins:
 collections:
   chapters:  # define a collection named "chapters"
     output: true # generate a seperate page for each of the chapters
+    permalink: /chapters/:name/
